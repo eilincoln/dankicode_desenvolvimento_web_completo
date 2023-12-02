@@ -23,5 +23,4 @@
 	echo '<br/>';
 	echo $informacao['cidade'];
 
-
 ?>
