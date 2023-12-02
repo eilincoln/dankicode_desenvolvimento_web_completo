@@ -1,7 +1,8 @@
 <?php
 
 	// Trabalhando com data e hora
-
+	
+	/*
 	date_default_timezone_set('America/Sao_Paulo');
 
 	function mostrarData(){
@@ -16,4 +17,8 @@
 	mostrarData();
 	echo '<hr/>'
 	mostrarHora();
+
+	*/
+
+	
 ?>
